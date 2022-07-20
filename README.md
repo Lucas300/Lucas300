@@ -1,7 +1,6 @@
 ## Olá 🖖 Seja bem vindo/a ao meu perfil do GitHub 😃
 
 - 🌐 Programção WEB;
-- 📚 Cursando Gestão da tecnologia da infomação pela FATEC;
 - 👨‍🎓 Formado como técnico de informática pela ETEC;
 - ⚡ Cheio de energia 🚀 pra dar o meu melhor!
 
