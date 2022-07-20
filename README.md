@@ -1,4 +1,4 @@
-# Oi !!! Meu nome é Lucas 🖖 
+# Oi, Meu nome é *Lucas* 🖖 
 ## Seja bem vindo/a ao meu perfil do GitHub 😃
 
 - 🌐 Estudando Programção WEB;
