@@ -1,4 +1,5 @@
-# Oi Eu Sou O Lucas, Seja bem vindo/a ao meu perfil do github 😃
+# Oi !!! Meu nome é Lucas 🖖 
+## Seja bem vindo/a ao meu perfil do GitHub 😃
 
 - 🌐 Estudando Programção WEB;
 - 📧 Contate-me pelo email: ludaniel.sd@gmail.com
