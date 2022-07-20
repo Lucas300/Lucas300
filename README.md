@@ -3,8 +3,7 @@
 - 🌐 Programção WEB;
 - 📚 Cursando Gestão da tecnologia da infomação pela FATEC;
 - 👨‍🎓 Formado como técnico de informática pela ETEC;
-- 🚀 Dando meu melhor sempre!!!
-- ⚡ Cheio de energia!
+- ⚡ Cheio de energia 🚀 pra dar o meu melhor!
 
 ##
 
