@@ -1,11 +1,8 @@
-# Oi, Meu nome é *Lucas* 🖖 
-## Seja bem vindo/a ao meu perfil do GitHub 😃
+# Olá 🖖 Seja bem vindo/a ao meu perfil do GitHub 😃
 
-- 🌐 Estudando Programção WEB;
-- 📧 Contate-me pelo email: ludaniel.sd@gmail.com
+- 🌐 Programção WEB;
 - 📚 Cursando Gestão da tecnologia da infomação pela FATEC;
 - 👨‍🎓 Formado como técnico de informática pela ETEC;
-- 👦 Pronome: Ele/Dele;
 - 🚀 Dando meu melhor sempre!!!
 - ⚡ Cheio de energia!
 
