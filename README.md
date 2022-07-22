@@ -2,7 +2,7 @@
 
 - 🌐 Programção WEB;
 - 👨‍🎓 Formado como técnico de informática pela ETEC;
-- ⚡ Cheio de energia 🚀 pra dar o meu melhor!
+- ⚡ Cheio de energia 🚀 e pronto para dar o meu melhor!
 
 ##
 
