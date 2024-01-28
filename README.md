@@ -30,5 +30,6 @@
 <a href="https://wa.me//5511960943768" target="_blank"><img alt="Whatsapp-lucas" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a> 
 <a href = "mailto:ludaniel.sd@gmail.com"><img alt="gmail-lucas" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+![snake gif](https://github.com/Lucas300/Lucas300/blob/output/github-contribution-grid-snake.svg)
 </div>  
   
