@@ -1,6 +1,6 @@
 ## Olá 🖖 Seja bem vindo/a ao meu perfil do GitHub 😃
 
-- 🌐 Programção WEB;
+- 🌐 Programção Full Stack;
 - 👨‍🎓 Formado como técnico de informática pela ETEC;
 - 📚Formado em Gestão da tecnologia da informação pela FATEC.
 - ⚡ Cheio de energia 🚀 e pronto para dar o meu melhor!
@@ -30,7 +30,50 @@
 <a href="https://wa.me//5511960943768" target="_blank"><img alt="Whatsapp-lucas" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a> 
 <a href = "mailto:ludaniel.sd@gmail.com"><img alt="gmail-lucas" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/lucas300/lucas300/blob/output/github-contribution-grid-snake.svg)
+ # Nome da Actions:  
+name: Snake Game
+
+# Controlador do tempo que sera feito a atualização dos arquivos.
+on:
+  schedule:
+      # Será atualizado a cada 5 horas.
+    - cron: "0 */5 * * *"
+
+# Permite executar na na lista de Actions (utilizado para testes de build).
+  workflow_dispatch:
+
+# Regras
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+
+    # Repositorio que será utilizado para gerar os arquivos.
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: lucas300 #lucas300
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - run: git status
+
+      # Para as atualizações.
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
  
 </div>  
   
