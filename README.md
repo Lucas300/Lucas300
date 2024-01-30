@@ -2,7 +2,7 @@
 
 - 🌐 Programção Full Stack;
 - 👨‍🎓 Formado como técnico de informática pela ETEC;
-- 📚Formado em Gestão da tecnologia da informação pela FATEC.
+- 📚 Formado em Gestão da tecnologia da informação pela FATEC.
 - ⚡ Cheio de energia 🚀 e pronto para dar o meu melhor!
 
 ##
