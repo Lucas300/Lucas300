@@ -1,4 +1,4 @@
-## Olá 🖖 Seja bem vindo/a ao meu perfil do GitHub 😃
+## Olá 🖖 Seja bem vindo(a) ao meu perfil do GitHub 😃
 
 - 🌐 Programção Full Stack;
 - 👨‍🎓 Formado como técnico de informática pela ETEC;
