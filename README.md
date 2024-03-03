@@ -1,8 +1,8 @@
 ## Olá 🖖 Sejam todos muito bem-vindos ao meu perfil do GitHub 😃
 
-- 🌐 Programção Full Stack;
+- 🌐 Programção Java Full Stack;
 - 👨‍🎓 Formado como técnico de informática pela ETEC;
-- 📚 Formado em Gestão da tecnologia da informação pela FATEC.
+- 📚 Formado em Gestão da Tecnologia da Informação pela FATEC.
 - ⚡ Cheio de energia 🚀 e pronto para dar o meu melhor!
 
 ##
