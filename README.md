@@ -2,7 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=11294fff&height=120&section=header"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?theme=github_dark&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá,+Meu+nome+é+Lucas+Daniel+💻;Tenho+24+anos.;👨‍💻+Formado+em+Gestão+da+Tecnologia+da+Informação+GTI.+👩‍💻;Sejam+Bem+Vindos!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Olá,+sou+Lucas,+Programador+Full+Stack+👨‍💻;Seja+bem-vindo(a)+ao+meu+perfil+👋;Apaixonado+por+tecnologia+e+inovação+🚀)](https://git.io/typing-svg)
+
 <p align="center">
   
   <a href="https://www.linkedin.com/in/lucas-daniel-souza-dias/">
@@ -21,23 +22,16 @@
 
 ---
 
-## 🚀 Sobre mim
+<h3 align="center"><strong>🚀 SOBRE MIM</strong></h3>
 
-- **Desenvolvedor Full Stack Java**, focado em **Spring Boot**, **React** e **APIs REST**.
-- **Graduado em Gestão da Tecnologia da Informação pela FATEC** e **Técnico em Informática pela ETEC**.
-- **Concluí o bootcamp Java Full Stack da Generation Brasil**.
-- **Sempre buscando desafios e evolução profissional 🚀**.
+<p align="center">
+Desenvolvedor Full Stack Java, apaixonado por tecnologia, com foco em backend utilizando Spring Boot, frontend com React e desenvolvimento de APIs REST. Formado em Gestão da Tecnologia da Informação pela FATEC e Técnico em Informática pela ETEC, com conclusão do bootcamp Java Full Stack da Generation Brasil.
+Sempre em busca de evolução constante, aprendizado de novas tecnologias e criação de soluções que gerem impacto real. No tempo livre, gosto de videogames e de explorar conteúdos sobre finanças, tecnologia e inovação.
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucas300&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas300&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages"/>
-</p>
-
-## 💻 Tecnologias e Ferramentas
+<h3 align="center"><strong>💻 TECNOLOGIAS E FERRAMENTAS</strong></h3>
 
 <table align="center">
   <tr>
@@ -49,7 +43,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,php" height="50"/>
+      <img src="https://skillicons.dev/icons?i=java,cs,php,ts,js,html,css" height="50"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,spring,tailwind,bootstrap" height="50"/>
@@ -65,6 +59,18 @@
     </td>
   </tr>
 </table>
+
+
+---
+<h3 align="center"><strong>📊 MINHAS ESTATÍSTICAS DO GITHUB</strong></h3>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucas300&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas300&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages"/>
+</p>
+
+
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=11294fff&height=120&section=footer"/>
 </div>
