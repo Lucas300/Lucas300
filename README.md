@@ -62,12 +62,13 @@ Sempre em busca de evolução constante, aprendizado de novas tecnologias e cria
 
 
 ---
-<h3 align="center"><strong>📊 MINHAS ESTATÍSTICAS DO GITHUB</strong></h3>
+<h2 align="center">📊 Minhas Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucas300&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas300&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages"/>
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="60%">
 </p>
+
+
 
 
 
