@@ -1,37 +1,27 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=11294fff&height=120&section=header"/>
-</div>
+# 👨🏻‍🚀 Lucas Daniel
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Olá,+sou+Lucas,+Programador+Full+Stack+👨‍💻;Seja+bem-vindo(a)+ao+meu+perfil+👋;Apaixonado+por+tecnologia+e+inovação+🚀)](https://git.io/typing-svg)
+**`Desenvolvedor Java FullStack`**
 
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/lucas-daniel-souza-dias/">
+Bem-vindo/a ao meu cantinho no GitHub! Aqui você vai encontrar uma coleção dos meus projetos, desde backends com __Java__ e __Spring Boot__ até frontends modernos com __React__ e __Tailwind CSS__. Estou sempre aprendendo, testando coisas novas e tentando deixar tudo mais legal e funcional.<br>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/lucas-daniel-souza-dias/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/lucas.kardashiann">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me//5511960943768">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:ludaniel.sd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://wa.me//5511960943768">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lucas.kardashiann">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center"><strong>🚀 SOBRE MIM</strong></h3>
-
-<p align="center">
-Desenvolvedor Full Stack Java, apaixonado por tecnologia, com foco em backend utilizando Spring Boot, frontend com React e desenvolvimento de APIs REST. Formado em Gestão da Tecnologia da Informação pela FATEC e Técnico em Informática pela ETEC, com conclusão do bootcamp Java Full Stack da Generation Brasil.
-Sempre em busca de evolução constante, aprendizado de novas tecnologias e criação de soluções que gerem impacto real. No tempo livre, gosto de videogames e de explorar conteúdos sobre finanças, tecnologia e inovação.
-</p>
-
----
-
-<h3 align="center"><strong>💻 TECNOLOGIAS E FERRAMENTAS</strong></h3>
+### 🤖 Linguagens e Tecnologias
 
 <table align="center">
   <tr>
@@ -43,7 +33,7 @@ Sempre em busca de evolução constante, aprendizado de novas tecnologias e cria
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,cs,php,ts,js,html,css" height="50"/>
+      <img src="https://skillicons.dev/icons?i=java,php,ts,js,html,css" height="50"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,spring,tailwind,bootstrap" height="50"/>
@@ -60,18 +50,23 @@ Sempre em busca de evolução constante, aprendizado de novas tecnologias e cria
   </tr>
 </table>
 
+### 📊 Estatísticas
 
----
-<h2 align="center">📊 Minhas Estatísticas do GitHub</h2>
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=lucas300&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&rank_icon=github"
+  />
 
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="60%">
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="195"
+    style="padding-right: 10px; margin-top: 15px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas300&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=9&hide=html,css,portugol"
+  />
 </p>
 
-
-
-
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=11294fff&height=120&section=footer"/>
-</div>
