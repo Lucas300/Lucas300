@@ -50,23 +50,5 @@ Bem-vindo/a ao meu cantinho no GitHub! Aqui você vai encontrar uma coleção do
   </tr>
 </table>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=lucas300&show_icons=true&theme=tokyonight&locale=pt-br&rank_icon=github&include_all_commits=true"
-  />
-</p>
 
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="195"
-    style="padding-right: 10px; margin-top: 15px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas300&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=9&hide=html,css,portugol"
-  />
-</p>
